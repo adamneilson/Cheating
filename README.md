@@ -1,0 +1,4 @@
+Cheating
+========
+
+Various cheat sheets
